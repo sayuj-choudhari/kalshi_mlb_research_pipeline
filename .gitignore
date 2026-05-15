@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data / databases
+data/
+datasets/
+*.db
+*.sqlite
+*.parquet
+*.csv
+
+# Mac
+.DS_Store
